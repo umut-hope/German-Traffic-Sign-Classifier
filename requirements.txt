@@ -1,0 +1,29 @@
+# =============================================================
+# Requirements for Traffic Sign Classification Project
+# =============================================================
+# Install all dependencies with: pip install -r requirements.txt
+# =============================================================
+
+# OpenCV - Computer vision library for image processing
+# Used for: reading images, resizing, grayscale conversion,
+#           edge detection, and HOG feature computation
+opencv-python>=4.8.0
+
+# NumPy - Numerical computing library
+# Used for: array operations, matrix manipulation,
+#           and efficient numerical computations
+numpy>=1.24.0
+
+# Matplotlib - Plotting and visualization library
+# Used for: displaying images, plotting confusion matrices,
+#           showing sample predictions, and saving figures
+matplotlib>=3.7.0
+
+# Scikit-learn - Machine learning library
+# Used for: SVM classifier, KNN classifier, train/test splitting,
+#           accuracy metrics, confusion matrix, and classification report
+scikit-learn>=1.3.0
+
+# Joblib - Lightweight pipelining (included with scikit-learn)
+# Used for: saving and loading trained models to/from disk
+joblib>=1.3.0
