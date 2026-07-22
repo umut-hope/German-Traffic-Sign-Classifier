@@ -1,0 +1,51 @@
+Classification Report - KNN
+=======================================================
+                               precision    recall  f1-score   support
+
+      0: Speed limit (20km/h)       1.00      0.95      0.97        40
+      1: Speed limit (30km/h)       1.00      1.00      1.00        40
+      2: Speed limit (50km/h)       1.00      1.00      1.00        40
+      3: Speed limit (60km/h)       0.98      1.00      0.99        40
+      4: Speed limit (70km/h)       0.95      1.00      0.98        40
+      5: Speed limit (80km/h)       0.98      1.00      0.99        40
+ 6: End of speed limit (80km/       1.00      1.00      1.00        40
+     7: Speed limit (100km/h)       1.00      1.00      1.00        40
+     8: Speed limit (120km/h)       0.95      1.00      0.98        40
+                9: No passing       1.00      1.00      1.00        40
+10: No passing (vehicles > 3.       1.00      1.00      1.00        40
+11: Right-of-way at intersect       1.00      1.00      1.00        40
+            12: Priority road       1.00      1.00      1.00        40
+                    13: Yield       1.00      1.00      1.00        40
+                     14: Stop       1.00      0.95      0.97        40
+              15: No vehicles       1.00      0.97      0.99        40
+16: Vehicles > 3.5t prohibite       1.00      1.00      1.00        40
+                 17: No entry       1.00      1.00      1.00        40
+          18: General caution       1.00      1.00      1.00        40
+     19: Dangerous curve left       1.00      1.00      1.00        40
+    20: Dangerous curve right       1.00      1.00      1.00        40
+             21: Double curve       1.00      0.97      0.99        40
+               22: Bumpy road       1.00      1.00      1.00        40
+            23: Slippery road       1.00      0.97      0.99        40
+    24: Road narrows on right       1.00      0.97      0.99        40
+                25: Road work       0.95      1.00      0.98        40
+          26: Traffic signals       1.00      0.95      0.97        40
+              27: Pedestrians       0.98      1.00      0.99        40
+        28: Children crossing       0.98      1.00      0.99        40
+        29: Bicycles crossing       1.00      1.00      1.00        40
+       30: Beware of ice/snow       1.00      1.00      1.00        40
+    31: Wild animals crossing       0.98      1.00      0.99        40
+32: End of all speed and pass       1.00      1.00      1.00        40
+         33: Turn right ahead       1.00      1.00      1.00        40
+          34: Turn left ahead       1.00      1.00      1.00        40
+               35: Ahead only       1.00      1.00      1.00        40
+     36: Go straight or right       1.00      1.00      1.00        40
+      37: Go straight or left       1.00      1.00      1.00        40
+               38: Keep right       1.00      0.97      0.99        40
+                39: Keep left       1.00      1.00      1.00        40
+     40: Roundabout mandatory       1.00      1.00      1.00        40
+        41: End of no passing       1.00      1.00      1.00        40
+42: End of no passing (vehicl       1.00      1.00      1.00        40
+
+                     accuracy                           0.99      1720
+                    macro avg       0.99      0.99      0.99      1720
+                 weighted avg       0.99      0.99      0.99      1720
