@@ -1,9 +1,6 @@
 # Traffic Sign Image Classification Using Computer Vision
-
-> **Course Project** — Computer Vision  
-> **Team Members:**  
+ 
 > - Okan Umut ÖZEN  
-> - Deniz Yaman Denizci
 
 ---
 
