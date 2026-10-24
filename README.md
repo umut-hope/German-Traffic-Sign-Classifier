@@ -1,4 +1,6 @@
 # Traffic Sign Image Classification Using Computer Vision
+
+![Sample SVM predictions on German traffic signs](docs/screenshot.webp)
  
 > - Okan Umut ÖZEN  
 
